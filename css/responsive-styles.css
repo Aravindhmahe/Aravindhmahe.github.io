@@ -54,4 +54,8 @@
   .tech-skills img {
     padding-top: 6%;
   }
+
+  .profile-section {
+    height: auto;
+  }
 }
