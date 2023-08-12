@@ -1,0 +1,57 @@
+/*Responsive design for intro section*/
+
+@media screen and (max-width: 768px) {
+  .profile-section {
+    height: 100vh;
+  }
+
+  .intro-container {
+    display: block;
+  }
+
+  .intro-container-left {
+    width: 100%;
+    margin: 0px 10px;
+  }
+
+  .intro-container-right {
+    width: 100%;
+    margin-top: 40px;
+  }
+
+  .intro-description {
+    position: initial;
+  }
+
+  .intro-description h2 {
+    font-size: 24px;
+    word-spacing: 2px;
+  }
+
+  .intro-description p {
+    font-size: 16px;
+    margin-top: 20px;
+    word-spacing: 2px;
+    line-height: 30px;
+  }
+
+  .tech-skills-row-1,
+  .tech-skills-row-2 {
+    display: block;
+    text-align: center;
+    padding: 0px 20px;
+  }
+
+  .tech-skills {
+    display: inline-block;
+    height: 70px;
+    width: 70px;
+    margin-right: 4px;
+    margin-bottom: 12px;
+    box-shadow: 0 2px 5px #aaa;
+  }
+
+  .tech-skills img {
+    padding-top: 6%;
+  }
+}
