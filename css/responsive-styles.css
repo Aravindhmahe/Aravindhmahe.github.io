@@ -58,4 +58,8 @@
   .profile-section {
     height: auto;
   }
+
+  .footer-social-container img {
+    margin: 0px;
+  }
 }

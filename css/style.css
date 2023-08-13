@@ -279,3 +279,22 @@ button {
 .tech-skills img {
   padding-top: 20%;
 }
+
+.portfolio-footer-container {
+  margin: 20px 20px;
+}
+
+footer {
+  text-align: center;
+}
+
+.footer-social-container h2 {
+  font-size: 30px;
+  text-transform: capitalize;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.footer-social-container img {
+  margin: 20px 20px;
+}
